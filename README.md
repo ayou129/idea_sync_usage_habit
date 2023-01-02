@@ -18,4 +18,5 @@
 
 
 idea编辑器主题：
-- PHPStorm Darcula
+- Github Theme(首选)
+- Darcula Theme
