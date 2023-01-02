@@ -1,4 +1,5 @@
-# vscode 打开用户配置文件 >openkeyboardShortcuts （json）
+# vscode 
+- 打开用户配置文件 >openkeyboardShortcuts （json）
 
 作用：统一所有编辑器的功能
 - 快捷键 ~/Library/Application Support/Code/User/keybindings.json 
