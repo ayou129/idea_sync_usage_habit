@@ -4,6 +4,16 @@
     //// phpstorm shift+shift
     //// vscode   command++p
     {
+        "key": "shift+cmd+up",
+        "command": "editor.action.moveLinesUpAction",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+down",
+        "command": "editor.action.moveLinesDownAction",
+        "when": "editorTextFocus"
+    },
+    {
         "key": "alt+cmd+l",
         "command": "editor.action.formatDocument", // 格式化文件
         "when": "editorTextFocus"
