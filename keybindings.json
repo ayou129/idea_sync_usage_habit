@@ -1,5 +1,8 @@
 // 将键绑定放在此文件中以覆盖默认值
 [
+    // other 转到文件
+    //// phpstorm shift+shift
+    //// vscode   shift+p
     {
         "key": "alt+cmd+l",
         "command": "editor.action.formatDocument", // 格式化文件
