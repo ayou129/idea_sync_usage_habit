@@ -3,10 +3,19 @@
 作用：统一所有编辑器的功能
 - 快捷键 ~/Library/Application Support/Code/User/keybindings.json
 
-使用的idea编辑器：
-- PHPStorm
-- WebStorm
-- Rider
+## 使用的idea编辑器：
+### PHPStorm
+### WebStorm
+### Rider
+### VSCode
+插件(扩展)
+- 默认安装 中文
+- Mysql
+- Docker
+- Markdown
+- Git
+
+
 
 idea编辑器主题：
 - PHPStorm Darcula
