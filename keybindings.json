@@ -2,7 +2,7 @@
 [
     // other 转到文件
     //// phpstorm shift+shift
-    //// vscode   shift+p
+    //// vscode   shift+command++p
     {
         "key": "alt+cmd+l",
         "command": "editor.action.formatDocument", // 格式化文件
