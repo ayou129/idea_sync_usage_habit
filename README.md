@@ -7,3 +7,6 @@
 - PHPStorm
 - WebStorm
 - Rider
+
+idea编辑器主题：
+- PHPStorm Darcula
