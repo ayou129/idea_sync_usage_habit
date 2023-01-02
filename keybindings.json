@@ -18,5 +18,10 @@
         "key": "cmd+d",
         "command": "editor.action.copyLinesDownAction", // 向下复制行
         "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+space",
+        "command": "workbench.action.showCommands", // 打开命令
+        "when": "editorTextFocus"
     }
 ]
